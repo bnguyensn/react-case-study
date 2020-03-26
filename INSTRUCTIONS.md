@@ -1,5 +1,7 @@
 # React Case Study - Instructions
 
+**Note**: this repo is also available on [GitHub](https://github.com/bnguyensn/react-case-study) should you want to work on it elsewhere.
+
 ## Packages installed
 
 - Apart from the latest React library, the package [`clsx`](https://www.npmjs.com/package/clsx) is installed to help with manipulating CSS classes. However, you're free to use whatever method you're familiar with e.g. string template or some other packages.
