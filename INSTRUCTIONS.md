@@ -1,6 +1,6 @@
 # React Case Study - Instructions
 
-**Note**: this repo is also available on [GitHub](https://github.com/bnguyensn/react-case-study) should you want to work on it elsewhere.
+*Note: you can view the formatted version of this on [GitHub](https://github.com/bnguyensn/react-case-study/edit/master/INSTRUCTIONS.md).*
 
 ## Packages installed
 
