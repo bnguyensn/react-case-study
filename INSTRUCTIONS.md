@@ -9,7 +9,7 @@
 
 ## Exercise #1. Light Switch
 
-Your task is to create a "Like" button that behaves like the .gif
+Your task is to create a button that behaves like the .gif
 below:
 
 ![Light switch](light-switch.gif)
