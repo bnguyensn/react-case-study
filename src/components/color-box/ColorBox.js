@@ -2,9 +2,12 @@
  * GitHub's colors API:
  * --------------------
  *
+ * Main documentation: https://noopschallenge.com/challenges/hexbot
+ *
  * Short summary:
  * 1. Send a /GET request to: https://api.noopschallenge.com/hexbot
- * 2. You'll receive back a JSON object like this:
+ * 2. You'll receive back a JSON object containing a random color value like
+ * this:
  *    {
  *      "colors": [
  *        {
@@ -12,6 +15,15 @@
  *        }
  *      ]
  *    }
- *
- * More details (if you want to find out more): https://noopschallenge.com/challenges/hexbot
  */
+
+import React from 'react';
+import './color-box.css';
+
+export default function ColorBox() {
+  const handleClick = () => {
+    // 🤔
+  };
+
+  return <div className="color-box" role="button" onClick={handleClick} />;
+}

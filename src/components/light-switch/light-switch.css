@@ -1,0 +1,14 @@
+.light-switch {
+  width: 4rem;
+  height: 4rem;
+
+  border: 1px solid #000;
+  border-radius: 5px;
+  background-color: #000;
+
+  cursor: pointer;
+}
+
+.light-switch.on {
+  background-color: #fff;
+}

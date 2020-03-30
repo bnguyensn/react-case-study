@@ -1,4 +1,14 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+.app {
+  display: flex;
+  flex-direction: column;
+
+  font-family: 'Roboto', sans-serif;
+}
+
+.app-section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  padding: 1rem;
 }
