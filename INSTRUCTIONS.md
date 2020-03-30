@@ -1,6 +1,6 @@
 # React Case Study - Instructions
 
-*Note: you can view the formatted version of this on [GitHub](https://github.com/bnguyensn/react-case-study/edit/master/INSTRUCTIONS.md).*
+*Note: you can view the formatted version of this on [GitHub](https://github.com/bnguyensn/react-case-study/blob/master/INSTRUCTIONS.md).*
 
 ## Packages
 
