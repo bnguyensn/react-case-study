@@ -50,3 +50,20 @@ below:
 - When the box component is clicked, it should fetch a new random color from GitHub's color API. API details are provided in `src/components/color-box/ColorBox.js`.
 - The box's background color should change to this new random color once it has been successfully fetched.
 - Stylings are provided in `src/components/color-box/color-box.css`. No additional stylings are required.
+
+## Exercise #4. Timer
+
+Your task is to create a timer like the .gif below:
+
+![Timer](timer.gif)
+
+### Details
+
+There are 4 components in play:
+
+- A "progress bar", displaying how much time has elapsed. The progress bar stops growing when the timer finishes.
+- An elapsed time counter, showing how much time has elapsed. The counter stops when the timer finishes.
+- A slider that controls how long the timer should run before it finishes.
+- A reset button that resets the elapsed time back to 0 when clicked. If the timer has stopped when the reset button is clicked, it should now run again.
+
+When updating the progress bar or elapsed time counter, use a 60FPS frame rate.
